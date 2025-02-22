@@ -1,5 +1,7 @@
 # compressed-classification
 
+https://maxhalford.github.io/blog/text-classification-by-compression/
+
 ---
 
 **Demystifying Text Classification: From Compression Techniques to Cosine Similarity**  
